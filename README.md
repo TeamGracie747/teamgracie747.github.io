@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,7 +5,7 @@
     <title>#TEAMGRACIE747 Live</title>
     <style>
         body {
-            background-image: url('https://i.imgur.com/2iR2CFs.jpg'); /* Direct link to your background image */
+            background-image: url('https://imgur.com/gallery/CeMVxy3'); /* Direct link to your background image */
             background-size: auto; /* Set the background size to auto */
             background-position: center; /* Center the image */
             background-repeat: no-repeat; /* Do not repeat the image */
