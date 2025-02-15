@@ -22,7 +22,7 @@
         .container {
             text-align: center;
             background: rgb(0, 22, 74); /* Set the background color to rgb(0, 22, 74) */
-            padding: 40px; /* Set the padding inside the border */
+            padding: 50px; /* Set the padding inside the border */
             border-radius: 20px; /* Set the border radius to 20px */
             border: 5px solid #ffffff; /* Add a thick border with color #ffffff */
         }
